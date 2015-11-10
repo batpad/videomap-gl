@@ -24,8 +24,8 @@
         var videoSource = new mapboxgl.VideoSource({
             'urls': [
                 // "big-buck-bunny_trailer.webm"
-                'https://video970.pad.ma/WX/240p1.webm'
-                // "https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm"
+                // 'https://video970.pad.ma/WX/240p1.webm'
+                "https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm"
             ],
            'coordinates': [
                [-76.54335737228394, 39.18579907229748],
